@@ -1,0 +1,4 @@
+node_modules/
+server/config/token.js
+yarn.lock
+package.lock
