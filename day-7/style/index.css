@@ -1,0 +1,16 @@
+.title {
+  font: 15pt 'arial';
+}
+
+.text {
+  font: 12pt 'serif';
+}
+
+.hide {
+  display: none;
+}
+
+.cat-image {
+  width: 500px;
+  height: 500px;
+}
