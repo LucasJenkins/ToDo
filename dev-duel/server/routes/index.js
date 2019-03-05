@@ -2,7 +2,7 @@ import { Router } from 'express'
 import axios from 'axios'
 import validate from 'express-validation'
 import token from '../../token'
-import getUser from './util/getUser'
+import getUser from '../lib/getUser'
 
 import validation from './validation'
 
